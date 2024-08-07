@@ -11,3 +11,4 @@ duckduckgo-search
 arxiv
 xmltodict
 langchain
+google-search-results
