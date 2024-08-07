@@ -12,3 +12,4 @@ arxiv
 xmltodict
 langchain
 google-search-results
+wikipedia
