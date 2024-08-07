@@ -12,7 +12,6 @@ Table of Contents
 *   [Available Endpoints](#available-endpoints)
 *   [Running the Application](#running-the-application)
 *   [Testing](#testing)
-*   [License](#license)
 
 Getting Started
 ---------------
